@@ -45,7 +45,7 @@ function geraRecomendacao(idade, gostaDeRomance, gostaDeTerror) {
   if(gostaDeRomance || gostaDeTerror) {
     return "Para todos os garotos que já amei";
   } else {
-    return "A cinco possos de você"
+    return "A cinco passos de você"
   }
 }
   } else {
